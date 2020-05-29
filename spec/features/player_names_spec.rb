@@ -1,6 +1,5 @@
 
-
-feature 'players can each enter their name' do 
+feature 'players can enter their name' do 
   scenario 'submitting names of players' do
     visit '/'
 
