@@ -1,9 +1,4 @@
 feature 'Attacking' do
-  # scenario 'attacking player 2' do
-  #   sign_in_and_play
-  #   click_button 'Attack'
-  #   expect(page).to have_content 'attack successful on'
-  # end
 
   scenario 'reduces player 2 by 10 HP' do
     sign_in_and_play
